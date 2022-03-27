@@ -49,3 +49,6 @@ Design and implement a method to find the straight ahead order sign in provided 
 ## Tiger
 Change the color of the corresponding parts of the tiger to orange
 (we assume that the gray color throughout the image has the same level).
+
+## Movie
+Open the video sequence provided. Detect moving objects and surround them with a red rectangle.
