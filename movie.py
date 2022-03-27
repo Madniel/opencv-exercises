@@ -1,3 +1,4 @@
+# Open the video sequence provided. Detect moving objects and surround them with a red rectangle.
 import cv2
 import numpy as np
 
